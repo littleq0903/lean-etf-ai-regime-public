@@ -1,0 +1,12 @@
+{
+  "regime": "neutral",
+  "confidence": 0.0,
+  "risk_multiplier": 0.5,
+  "summary": "Neutral fallback because AI regime generation was unavailable.",
+  "risks": [
+    "OPENAI_API_KEY is missing"
+  ],
+  "kill_switch": false,
+  "updated_at": "2026-05-06T08:33:17Z",
+  "source": "github_actions"
+}
